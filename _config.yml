@@ -2,12 +2,13 @@ title: kukuwhy
 author: GitHub User
 email: kukuwhy6@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a seasoned security engineer with 6 years in service security, specializing in resolving complex challenges through automation and tooling to optimize processes. With a background as a security consultant for diverse firms, I advocate for a deep comprehension of code and infrastructure among engineers, constantly advancing my knowledge to elevate security standards
+
+
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 1
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
@@ -21,8 +22,8 @@ dash:
   date_format: "%b %-d, %Y"
 
   # (optional) discqus comment configuration
-  disqus:
-    shortname: bitbrain-github-io
+  # disqus:
+  #   shortname: bitbrain-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
@@ -42,7 +43,7 @@ dash:
 
   # Replaces the default avatar provider (gravatar)
   #avatar_source: github
-  #github_username: bitbrain
+  github_username: kukuwhy
   #avatar_source: local
   #avatar_path: /assets/avatar.png
 
